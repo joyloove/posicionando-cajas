@@ -1,0 +1,68 @@
+/* ID's*/
+#red_square {
+  background-color: red;
+}
+
+#purple_square {
+  background-color: purple;
+}
+
+#yellow_square {
+  background-color: yellow;
+}
+
+#blue_square {
+  background-color: blue;
+}
+
+#green_square {
+  background-color: green;
+}
+
+#black_square {
+  background-color: black;
+}
+
+/* CLASES TAMAÑO*/
+.big-square {
+  height: 280px;
+  position: relative;
+  width: 280px;
+}
+
+.medium-square {
+  left: 72px;
+  height: 140px;
+  position: absolute;
+  top: 72px;
+  width: 140px;
+}
+
+.small-square {
+  height: 70px;
+  position: absolute;
+  width: 70px;
+}
+
+/*MARGENES*/
+.mt-5 {
+  margin-top: 5%;
+}
+
+.ml-20 {
+  margin-left: 20%;
+}
+
+.medium-square{
+  background-color: #800080;
+  height: 145px;
+  width: 145px;
+
+}
+
+.small-square{
+  background-color: #ffff00;
+  height: 72.5px;
+  width: 72.5px;
+
+}
